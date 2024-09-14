@@ -4,4 +4,4 @@ This project file has a little details about me including my picture and i attac
 
 You can also reach me on my contacts on the portfolio page for collaboration and mentorship, I'm willing to learn.
 
-link to the main portfolio is here "https://vdhbhgrr-5500.uks1.devtunnels.ms/fortfolio_folder/"
+link to the main portfolio is here "https://riskylollipopcopy.github.io/"
