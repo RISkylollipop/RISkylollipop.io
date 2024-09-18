@@ -60,6 +60,7 @@ section{
 }
 img{
     height: 100%;
+    width: 100%;
     margin: 10%;
 }
 
@@ -114,23 +115,7 @@ color: aliceblue;
 	content: "";
 }
 
-@media screen and (max-width:600px) {
 
-    .navbar {
-        text-align: center;
-        margin-left: 20px;
-    }
-    
-    .row{
-        width: 100%;
-        display: flex;
-        flex-wrap: wrap; 
-    }
-    [class*="col-"]{
-        width: 100%;
-    }
-    
-}
 
 
 
@@ -158,4 +143,24 @@ color: aliceblue;
 #contact li a{
     text-decoration: underline;
     text-decoration: sandybrown;
+}
+
+
+
+@media screen and (max-width:600px) {
+
+    .navbar {
+        text-align: center;
+        margin-left: 20px;
+    }
+    
+    .row{
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap; 
+    }
+    [class*="col-"]{
+        width: 100%;
+    }
+    
 }
