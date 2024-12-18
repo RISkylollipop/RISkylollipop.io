@@ -4,4 +4,4 @@ This project file has a little details about me including my picture and i attac
 
 You can also reach me on my contacts on the portfolio page for collaboration and mentorship, I'm willing to learn.
 
-link to the main portfolio is here "https://riskylollipopcopy.github.io/"
+link to the main portfolio is here  "https://riskylollipop.github.io/RISkylollipop" or "https://riskylollipopcopy.github.io/" 
